@@ -10,12 +10,10 @@
 ### 🚀 **About Me**
 
 Hello! I'm a passionate developer with a knack for creating innovative solutions. I specialize in full-stack development, and I'm always eager to dive into new challenges and learn new technologies.
-
-- **Languages & Frameworks:** JavaScript, Python, Java, React, Node.js, Django, Flutter
+- **Languages:** C, Go, js, Python, Java, C#, Dart
+- **Frameworks:** Django, Springboot, react, react native, express js, Flutter, Nextjs and more
 - **Cloud & DevOps:** AWS, Git, CI/CD
-- **Mobile & Web Development:** Flutter, ASP.NET, MAUI
-- **Methodologies:** Agile, Scrum
-- **Tools & Tech:** RPA (UiPath, Automation Anywhere), Docker, Version Control, SQL & NoSQL Databases
+- **Databse:** Postgres, Mysql, Mariadb, Nosql databases
 
 I'm constantly evolving and expanding my skill set, and I'm particularly excited about leveraging my abilities in a forward-thinking tech team.
 
