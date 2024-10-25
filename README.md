@@ -1,4 +1,4 @@
-# **[Mwiine]** 💻 
+# **Mwine** 💻 
 
 **Enthusiastic Full-Stack Developer | Problem Solver | Continuous Learner**
 
